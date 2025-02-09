@@ -1,0 +1,36 @@
+http:
+  port: 8090
+
+apiEndpoints:
+  backend:
+    paths: /api/*
+
+  frontend:
+    paths: /*
+
+serviceEndpoints:
+  frontend:
+    url: http://127.0.0.1:3000
+
+  backend:
+    url: http://127.0.0.1:3001
+
+policies:
+  - proxy
+
+pipelines:
+  backendPipeline:
+    apiEndpoints:
+      - backend
+    policies:
+      - proxy:
+          - action:
+              serviceEndpoint: backend
+
+  frontendPipeline:
+    apiEndpoints:
+      - frontend
+    policies:
+      - proxy:
+          - action:
+              serviceEndpoint: frontend
