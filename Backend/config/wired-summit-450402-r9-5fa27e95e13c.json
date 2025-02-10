@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "wired-summit-450402-r9",
+  "private_key_id": "5fa27e95e13c786a7c88268890a4be7236b36982",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQDCfPTKSIaFKry3\nlnuE66NEMlLSc/nE2z4pMh1GpCvuonCSyPakznBa3ezEZDCUAjlRRXg8FU4IQjJV\ntjQrw4U4vblQvIvamFWNi5YIqz3b0cD+D2Zp0C5SrbaezAmRCji4tsuXOkHV65P0\n7rjRVTl78N9ynjeZriIxwDI4h/5QReG3h4JJV0AbVK/RvUaJxile5zzH5qkLjwnJ\nlPuFJgyo0aYcFjZncf5v5nHk84qEYaKfuwMuBEXMdb1JtjSNQPtm6in03UBJHmcV\nU9ktZH/VGDwNVqL5fL93F1zIX8qqjxAVMR3LGpJ/nsC/sw8iB+X6iiPyFdi0bT7L\nHSOtUeQtAgMBAAECggEAXT/pZKWybd4IXuP1dE1A2j1grYwyyPqvyrO/CrRDZicX\nX6GgdHOQtliqoZ1CF20bi0aKOBCk+du3Y5Y5XHRiB0scM8Q7MAOTHYs8VAq63Y8s\nAARlP72zwCuPIING4PZsLNBkPC2QDF/n8GuXTLMWnUDn+f43PWWa+oyi56z4uAZ7\nWtm23HgWYDlRw3etvnXB+fK8mZJ8NF+ijFMgMecbLaGhbRWRAvowAOd8igVRKwDo\nbemLxzOmSAvk8YKXuIxd/RczA2cKIq8uvry6VruuPoa512RkzpDxOHbM0eG5w6w2\nLUPwiIuG7xXBogeVT9fgx2wn0n4LnrTAmQNq2w5DhwKBgQDpbZtHpxkOmYdK+n1U\nVdkSU9smYO+eztI5N8FZicpkk25JVuNv3a4PfqXBEz8XZrn2w9ynj1Z7G5tkxbUc\nQMpjW1HoZG1NmAIcQnf6eas089oWV0ooPAIX7oj8YThHa15Ip5tFYhQerU//fKzZ\nTcVeVGn0JMoZJHRloMecMFmHhwKBgQDVS2i2wqkPKSQEbTJB40ZM7Qkw228pXkKD\nHbz+/f/Ri8D4pUlXjxiRpVz7UdFtV0+VBjJZHunnnYGg98sq+HRXSfqlnOsJflkN\nqyzHBu/4sezRDOHGcl2VX9yQu9SCcwKJp0YDppZ1oAsBrIjfpG9uZQ9dfUCeWEvb\nHD9tbAX7qwKBgQCH+lqHXfbBw3vFmK+jjjLac1DpRXSw3SgnPqx6XUMyXZPUUzJA\nOzGnQw6Jr42EM0pHTodecKhfJJDcHjPHlpKPWGYZa08k8VThY3MCzReHzDmR5B2F\n3JcXm9PeuT+QkyIkTsarn1u7FxjP6q/CEoTT03a5SykThmHrxcIh4SR2RwKBgQCJ\n+IqW1hp3tRwYRO5iknqSHi54zSj98HxDxkPQCkulp6o+7OQhYG37IKWh6E35VaYj\n9uswnP+fFFKa5k8kz6yqHi+lW3jqHjHK1rRTVhh6ndVbcOLG9Im2q1jIwsd3TqAQ\nnQR8LhFbqxgTkCDF0d9G4NZsmi3nf6Qp6v7YcCz6mwKBgEkG40b9irJqf++sfUOs\ngQLOoPkU1nUmtth8YozmcRSeAMkCr/9eb3RSb9pEpaluVeug6agIW3OVKQevHk+F\nKHjZ15xu5kYhK6aztCTlctgUCQSnlbPcjRBO4wDhvc73xzuMTDLK/q8iCjj7lbOG\ntpOpnJri6gdcwLNgMu93fXvg\n-----END PRIVATE KEY-----\n",
+  "client_email": "text-to-speech-service-account@wired-summit-450402-r9.iam.gserviceaccount.com",
+  "client_id": "103161311519179070926",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/text-to-speech-service-account%40wired-summit-450402-r9.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
